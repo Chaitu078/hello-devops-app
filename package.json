@@ -1,0 +1,11 @@
+{
+  "name": "hello-devops",
+  "version": "1.0.0",
+  "description": "Simple Hello World DevOps App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Chaitanya",
+  "license": "MIT"
+}
